@@ -8,7 +8,7 @@ ChainForge automates Active Directory Certificate Services (AD CS) vulnerability
 
 ---
 # Proof of Concept
-https://vimeo.com/1174944574?share=copy&fl=sv&fe=ci
+https://vimeo.com/1174944574
 
 
 ## Quick Start
