@@ -16,7 +16,7 @@ Usage:
 
   # Custom Neo4j endpoint (non-default URL or credentials):
   python3 chainforge.py -u <user> -p '<password>' -d <domain> --dc-ip <dc_ip> \\
-    --neo4j-url bolt://10.0.0.5:7687 --neo4j-pass <custom_password>
+    --neo4j-url bolt://127.0.0.1:7687 --neo4j-pass <custom_password>
 """
 
 import argparse
