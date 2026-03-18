@@ -137,8 +137,6 @@ sudo ./bloodhound-cli containers down
 sudo ./bloodhound-cli containers up
 ```
 
-The `--bloodhound` flag handles collection, extraction, and import automatically. The `--neo4j` flag uses the BH CE default credentials (`neo4j` / `bloodhoundcommunityedition`).
-
 ---
 
 ## Usage
