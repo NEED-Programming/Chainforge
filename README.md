@@ -166,7 +166,7 @@ python3 chainforge.py -u admin -p '<pass>' -d CORP.local --dc-ip 10.0.0.1 --neo4
 
 # Custom Neo4j instance
 python3 chainforge.py -u dan -p '<pass>' -d CORP.local --dc-ip 10.0.0.1 \
-  --neo4j-url bolt://10.0.0.5:7687 --neo4j-pass custompassword
+  --neo4j-url bolt://127.0.0.1:7687 --neo4j-pass bloodhoundcommunityedition
 ```
 
 ---
