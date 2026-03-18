@@ -7,6 +7,9 @@ Enumerate → Triage → Chain → Domain Admin
 ChainForge automates Active Directory Certificate Services (AD CS) vulnerability assessment. It identifies exploitable ESC paths, generates copy-pasteable exploit commands with real values, and chains findings across phases to surface complete attack paths from initial access to domain compromise.
 
 ---
+# Proof of Concept
+https://vimeo.com/1174944574?share=copy&fl=sv&fe=ci
+
 
 ## Quick Start
 
