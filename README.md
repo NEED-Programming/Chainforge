@@ -1,4 +1,4 @@
-# ChainForge v1.0
+# ChainForge
 
 **ADCS Attack Chain Triage & Resolution**
 
