@@ -26,6 +26,9 @@ python3 chainforge.py -u <user> -p '<password>' -d <domain> --dc-ip <dc_ip> --ne
 # Custom Neo4j instance
 python3 chainforge.py -u <user> -p '<password>' -d <domain> --dc-ip <dc_ip> \
   --neo4j-url bolt://10.0.0.5:7687 --neo4j-pass <custom_password>
+
+The --bloodhound flag handles collection, extraction, and import automatically. The --neo4j flag uses the BH CE default credentials (neo4j / bloodhoundcommunityedition).
+  
 ```
 
 On first run, ChainForge checks for all required tools and offers to install anything missing with a single prompt.
